@@ -1,5 +1,5 @@
 class ReceiptCalculator
-  TAX_RATE = 0.1
+  TAX_RATE = 0.08
 
   attr_reader :items
 
